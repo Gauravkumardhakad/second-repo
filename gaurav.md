@@ -1,4 +1,4 @@
-#i am learnig concept of markdown for github.
+# i am learnig concept of markdown for github.
 
 **this is bold text**
 _this is a italic styling text_
@@ -11,7 +11,7 @@ this site is very populat [Youtube](ww.youtube.com)
 ![this is an image just to see the method of inserting images.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
-#**this is an unordered_list**
+# **this is an unordered_list**
 -gaurav
 *tany
 +pachauri
@@ -21,3 +21,4 @@ this site is very populat [Youtube](ww.youtube.com)
 1. gaurav
 2. tany
 3. pachauri 
+
