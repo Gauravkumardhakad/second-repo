@@ -6,7 +6,7 @@ _this is a italic styling text_
 
 > i am qouted gaurav.
 
-this site is very populat [Youtube](ww.youtube.com)
+this site is very populat [Youtube](www.youtube.com)
 
 ![this is an image just to see the method of inserting images.](https://myoctocat.com/assets/images/base-octocat.svg)
 
@@ -23,8 +23,32 @@ this site is very populat [Youtube](ww.youtube.com)
 3. pachauri 
 
 # task list
-- [] eating
-- [] coding
+- [ ] eating
+- [ ] coding
 - [x] sleeping
 
+# footnotes
+this is my first footnote[^1].
+
+here is the second footnote[^2]
+
+[^1]: my reference
+[^2]: i am proud of myself
+
+
+# Alerts dekhlo guys
+> [!NOTE]
+> useful information uder should know.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+
+# tables 
+
+| name | power |
+|______|_______|
+|gaurav|eating | 
+|tany  |mind   |
+|ansh  |bakaiti|
 
