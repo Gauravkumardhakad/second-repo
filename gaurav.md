@@ -12,13 +12,19 @@ this site is very populat [Youtube](ww.youtube.com)
 
 
 # **this is an unordered_list**
--gaurav
-*tany
-+pachauri
+- gaurav
+* tany
++ pachauri
 
 
 **now i will make a ordered_list**
 1. gaurav
 2. tany
 3. pachauri 
+
+# task list
+- [] eating
+- [] coding
+- [x] sleeping
+
 
