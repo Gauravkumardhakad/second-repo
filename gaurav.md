@@ -47,7 +47,7 @@ here is the second footnote[^2]
 # tables 
 
 | name | power |
-| ______ | _______ |
+| ----- | ------ |
 | gaurav| eating | 
 | tany  | mind   |
 | ansh  | bakaiti |
